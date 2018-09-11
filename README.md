@@ -1,4 +1,8 @@
-# ford-thinking
+# ford.css
+FORD THINKING
+-------------------------------------------------
+Copyright © Jon Candy. 2018. All rights reserved.
+jonathoneric@gmail.com
 Custom CSS and Concepts for Scripts
 
 CONCEPT SCRIPTS
